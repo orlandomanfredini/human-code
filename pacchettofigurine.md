@@ -1,4 +1,4 @@
-# Aprire un pacchetto di figurine
+# Aprire un pacchetto di figurine 
 - Prendo il pacchetto di figurine
 - Apro il pacchetto di figurine
 - Sfilo le figurine dal pacchetto
